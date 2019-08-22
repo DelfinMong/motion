@@ -153,5 +153,53 @@ html {
   font-family: 'Roboto Condensed' , sans-serif;
   font-size: 1.4em;
   color: #18191d;
+  
 }
 
+.nav2 ul li a span{
+   color: #b9b9b9;
+}
+
+
+
+.nav2 ul li:hover{
+   background-color: #ff1637;
+}
+
+.nav2 ul li:hover a,
+.nav2 ul li:hover a span{
+     color: white;
+}
+
+
+.social-icons a{
+  color: ;
+  border: ;
+  width: ;
+  height: ;
+  line-height: ;
+  display: ;
+  text-align: ;
+  border-right: ;
+  transition: ;
+  margin-top:
+}
+
+
+.social-icons a:hover i{
+  color: ;
+  margin: ;
+  border-color: ;
+}
+
+ul.social-icons .list-inline{
+  text-align: ;
+  margin-top: ;
+}
+
+.list-inline > li{
+  display: ;
+  padding-right: ;
+  padding-left:  ;
+  list-style-type: none;
+}
